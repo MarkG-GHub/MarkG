@@ -1,0 +1,6 @@
+{
+  "name": "Pal Oren vs Lontoy: Arcade Showdown",
+  "description": "High-octane arcade shooting battle featuring hero Pal Oren against boss villain Lontoy with custom photo uploads, weapon power-ups, and synthesized sound effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
